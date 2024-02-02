@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1705064989,,"wq!"
+|2,0,1706856981,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,20 +25,48 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/git-demo/programe1
-|4,48,1,0,1705082055,"~/git-demo/programe1"
-'1  1  19  ~/git-demo/program1
-|4,49,1,19,1705064989,"~/git-demo/program1"
-'2  1  0  ~/git-demo/program1
-|4,50,1,0,1705064762,"~/git-demo/program1"
-'3  1  16  ~/git-demo/program-1
-|4,51,1,16,1705063922,"~/git-demo/program-1"
+'0  1  16  ~/file6
+|4,48,1,16,1706856981,"~/file6"
+'1  1  22  ~/file4
+|4,49,1,22,1706776576,"~/file4"
+'2  1  0  ~/git-demo/programe1
+|4,50,1,0,1705082055,"~/git-demo/programe1"
+'3  1  19  ~/git-demo/program1
+|4,51,1,19,1705064989,"~/git-demo/program1"
+'4  1  0  ~/git-demo/program1
+|4,52,1,0,1705064762,"~/git-demo/program1"
+'5  1  16  ~/git-demo/program-1
+|4,53,1,16,1705063922,"~/git-demo/program-1"
 
 # Jumplist (newest first):
+-'  1  16  ~/file6
+|4,39,1,16,1706856981,"~/file6"
+-'  1  22  ~/file4
+|4,39,1,22,1706776576,"~/file4"
+-'  1  22  ~/file4
+|4,39,1,22,1706776576,"~/file4"
+-'  1  0  ~/git-demo/programe1
+|4,39,1,0,1705082055,"~/git-demo/programe1"
+-'  1  0  ~/git-demo/programe1
+|4,39,1,0,1705082055,"~/git-demo/programe1"
+-'  1  0  ~/git-demo/programe1
+|4,39,1,0,1705082055,"~/git-demo/programe1"
 -'  1  0  ~/git-demo/programe1
 |4,39,1,0,1705082055,"~/git-demo/programe1"
 -'  1  19  ~/git-demo/program1
 |4,39,1,19,1705064989,"~/git-demo/program1"
+-'  1  19  ~/git-demo/program1
+|4,39,1,19,1705064989,"~/git-demo/program1"
+-'  1  19  ~/git-demo/program1
+|4,39,1,19,1705064989,"~/git-demo/program1"
+-'  1  19  ~/git-demo/program1
+|4,39,1,19,1705064989,"~/git-demo/program1"
+-'  1  0  ~/git-demo/program1
+|4,39,1,0,1705064762,"~/git-demo/program1"
+-'  1  0  ~/git-demo/program1
+|4,39,1,0,1705064762,"~/git-demo/program1"
+-'  1  0  ~/git-demo/program1
+|4,39,1,0,1705064762,"~/git-demo/program1"
 -'  1  0  ~/git-demo/program1
 |4,39,1,0,1705064762,"~/git-demo/program1"
 -'  1  16  ~/git-demo/program-1
@@ -51,8 +79,52 @@
 |4,39,1,16,1705063922,"~/git-demo/program-1"
 -'  1  16  ~/git-demo/program-1
 |4,39,1,16,1705063922,"~/git-demo/program-1"
+-'  1  16  ~/git-demo/program-1
+|4,39,1,16,1705063922,"~/git-demo/program-1"
+-'  1  16  ~/git-demo/program-1
+|4,39,1,16,1705063922,"~/git-demo/program-1"
+-'  1  16  ~/git-demo/program-1
+|4,39,1,16,1705063922,"~/git-demo/program-1"
+-'  1  16  ~/git-demo/program-1
+|4,39,1,16,1705063922,"~/git-demo/program-1"
+-'  1  16  ~/git-demo/program-1
+|4,39,1,16,1705063922,"~/git-demo/program-1"
+-'  1  16  ~/git-demo/program-1
+|4,39,1,16,1705063922,"~/git-demo/program-1"
+-'  1  16  ~/git-demo/program-1
+|4,39,1,16,1705063922,"~/git-demo/program-1"
+-'  1  16  ~/git-demo/program-1
+|4,39,1,16,1705063922,"~/git-demo/program-1"
+-'  1  16  ~/git-demo/program-1
+|4,39,1,16,1705063922,"~/git-demo/program-1"
+-'  1  16  ~/git-demo/program-1
+|4,39,1,16,1705063922,"~/git-demo/program-1"
+-'  1  16  ~/git-demo/program-1
+|4,39,1,16,1705063922,"~/git-demo/program-1"
+-'  1  16  ~/git-demo/program-1
+|4,39,1,16,1705063922,"~/git-demo/program-1"
+-'  1  16  ~/git-demo/program-1
+|4,39,1,16,1705063922,"~/git-demo/program-1"
+-'  1  16  ~/git-demo/program-1
+|4,39,1,16,1705063922,"~/git-demo/program-1"
+-'  1  16  ~/git-demo/program-1
+|4,39,1,16,1705063922,"~/git-demo/program-1"
 
 # History of marks within files (newest to oldest):
+
+> ~/file6
+	*	1706856975	0
+	"	1	16
+	^	1	17
+	.	1	16
+	+	1	16
+
+> ~/file4
+	*	1706776572	0
+	"	1	22
+	^	1	23
+	.	1	22
+	+	1	22
 
 > ~/git-demo/programe1
 	*	1705082055	0
